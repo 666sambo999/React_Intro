@@ -1,7 +1,7 @@
 {
   "name": "react_intro",
   "version": "0.1.0",
-  "homepage": "https://666sambo999.github.io/React_Intro/",
+  "homepage": "https://666sambo999.github.io/React_Intro",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
